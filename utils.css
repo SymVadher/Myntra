@@ -1,0 +1,41 @@
+.flex {
+    display: flex;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.semibold {
+    font-weight: bolder;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.mx-2 {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.img4 {
+    margin: -11px 0px;
+}
+
+.homeImg1 {
+    display: inline-block;
+    width: 50%;
+}
+
+.flex-wrap{
+    flex-wrap: wrap;
+}
